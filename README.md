@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neelzee
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Java, Haskell and C
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, email: nilsien2001@gmail.com
 
